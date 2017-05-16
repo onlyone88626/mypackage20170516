@@ -1,7 +1,7 @@
 {
   "name": "mypackage20170516",
-  "version": "1.0.0",
-  "description": "20170516 发布的第一个包，版本为1.0.0",
+  "version": "2.0.1",
+  "description": "20170516 添加sayHello，版本为2.0.1",
   "main": "firstPackage.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
